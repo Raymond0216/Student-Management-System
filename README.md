@@ -1,4 +1,4 @@
-# Student Registration System
+# Student Registration Management System
 
 A web-based student registration system with separate access for students and staff members.
 
